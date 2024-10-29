@@ -11,9 +11,14 @@ body{
 img {
     max-width: 100%;
     height: auto;
-    max-height:500px;
     width: auto\9; /* ie8 */
 }
+
+.photo {
+  width:100%;
+  max-width:500px;
+}
+
 .button {
 
     text-decoration: none;
