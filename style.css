@@ -19,6 +19,11 @@ img {
   max-width:500px;
 }
 
+.about-photo {
+  width:100%;
+  max-width:400px;
+}
+
 .button {
 
     text-decoration: none;
